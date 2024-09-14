@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mnoit.github.io/Rcx/sitemap.Rcx.gz
